@@ -1,5 +1,6 @@
 
 To work on CR1 payment gateway
 
-Change to check push
-Change to commit by team mate
+Change -> to check push
+Change -> to commit by team mate
+change -> to test rebase with local and remote master
