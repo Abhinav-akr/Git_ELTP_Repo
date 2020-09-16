@@ -13,3 +13,5 @@ Change 3: -> Enhancement for login feature
 Change 5: -> Bug2 fix
 
 Change 6: -> Rebase check
+
+Change 7: -> New changes on the themes
